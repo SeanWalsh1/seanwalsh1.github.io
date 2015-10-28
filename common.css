@@ -3,5 +3,10 @@ body {
 }
 
 h1 {
-  color: #FFFF33;
+     color: #FFFF33;
+}
+
+.navbar-header {
+    background-color: #FFFF33;
+    color: #E60000;
 }
