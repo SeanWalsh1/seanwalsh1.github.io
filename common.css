@@ -6,7 +6,7 @@ h1 {
      color: #FFFF33;
 }
 
-.navbar navbar-default {
+.navbar-header, #navbarCollapse {
     background-color: #FFFF33;
     color: #E60000;
 }
