@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Draggable object</title>
+    <link rel="stylesheet" href="jquery-ui.css">
+    <script src="jquery-1.11.3.min.js"></script>
+    <script src="jquery-ui.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="common.css">
+    <style>
+      #draggable { width: 150px; height: 150px; padding: 0.5em; }
+    </style>
+    <script>
+      $(function() {
+      $( "#draggable" ).draggable();
+      });
+    </script>
+  </head>
+  <body>
+    
+    <div id="draggable" class="ui-widget-content">
+      <p>I'm a firetruck.</p>
+      <p>Wee-woo wee-woo!</p>
+    </div>    
+    
+  </body>
+</html>
