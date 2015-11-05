@@ -9,7 +9,7 @@ h1 {
 }
 
 .navbar-header, #navbarCollapse {
-    background-color: #F8F8FF;
+    background-color: #333333;
     color: #BAB9B9;
 }
 .footer {
@@ -21,7 +21,7 @@ h1 {
     bottom: 0;
     width: 100%;
     color: #BAB9B9;
-    background-color: #F8F8FF; 
+    background-color: #333333; 
     margin-bottom: 10px;
     padding: 5px;
     border-bottom-left-radius: 15px;
