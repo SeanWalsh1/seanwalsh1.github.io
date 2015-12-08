@@ -14,8 +14,8 @@ body {
 }
 
 .navbar-header, #navbarCollapse {
-    background-color: #E3E5E4;
-    color: #550000;
+    background-color: white;
+    color: black;
 }
 .footer {
     text-align: center;
